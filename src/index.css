@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800;900&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Mulish', sans-serif;
+}
+
+.btn-bg {
+    background: linear-gradient(180deg, #625BF7 0%, #463EEA 100%);
+}
+
+.card-shadow {
+    box-shadow: 0px 6px 8px 0px rgba(0, 0, 0, 0.05);
+}
