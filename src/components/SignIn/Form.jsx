@@ -57,7 +57,7 @@ const Form = () => {
 return (
   <form onSubmit={ (e) => searchData(e) } className="flex flex-col gap-5 w-full">
     <div className={`${style.inputDiv}`}>
-      <label htmlFor="name" className="text-sm">Your email</label>
+      <label htmlFor="name" className="text-sm">Your Name</label>
       <input type="text" name="name" id="name" className={`${style.input}`} onChange={(e) => setUserData({ ...userData, username: e.target.value })} />
     </div>
     <div className={`${style.inputDiv}`}>
