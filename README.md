@@ -1,8 +1,6 @@
-# React + Vite
+# Dummy Authentication Credentials
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Dummy Credentials to get a successful response - Username - atuny0 , Password - 9uQFF1Lh
+Username - hbingley1 , password - CQutx25i8r
+Username - rshawe2 , password - OWsTbMUgFc
+You can get more valid usernames and password from - https://dummyjson.com/users.
